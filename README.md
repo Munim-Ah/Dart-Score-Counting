@@ -1,5 +1,5 @@
 # Dart-Score-Counting
-This is a basic real time dart score counting algorithm, which is followed by the 301 dart rules. I tried to develop the algorithm based on color detection method. Which means this algorithm only detects Blue and Yellow colored darts. 
+This is a basic real time dart score counting algorithm, which is followed by the 301 dart rules. I tried to develop the algorithm based on color detection method. Which means this algorithm only detects Blue and Yellow colored darts. Make sure to install OpenCV version 3 !
 
 # Required Hardware
 To use the framework, you need the following hardware:
